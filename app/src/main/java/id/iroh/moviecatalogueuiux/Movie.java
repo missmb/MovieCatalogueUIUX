@@ -3,8 +3,6 @@ package id.iroh.moviecatalogueuiux;
 import android.os.Parcel;
 import android.os.Parcelable;
 
-import java.util.ArrayList;
-
 public class Movie implements Parcelable {
     private String judul, deskripsi, konten ;
     private int Thisposter;

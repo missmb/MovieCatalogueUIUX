@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Movie Catalogue UI UX</string>
-    <string name="movies">Film</string>
+    <string name="movies">Movie</string>
     <string name="tv_show">TV Show</string>
 
     <string name="hello_blank_fragment">Hello blank fragment</string>
@@ -119,16 +119,17 @@
     </array>
 
     <string-array name="konten_tvshow">
-        <item>Arrow adalah serial televisi Amerika yang dikembangkan oleh Greg Berlanti, Andrew Kreisberg, dan Geoff Johns, yang mengudara di The CW. Serial ini didasari tokoh DC Comics Green Arrow (Oliver Queen), seorang pahlawan super berkostum, penumpas-kejahatan yang bersenjatakan busur dan panah. Serial ini menceritakan Oliver Queen, playboy miliuner yang pascaterdampar lima tahun di pulau terpencil, kembali pulang bersenjatakan busur dan panah untuk menumpas kejahatan di Kota Star sebagai vigilante rahasia bernama Green Arrow.</item>
-        <item>x</item>
-        <item>x</item>
-        <item>x</item>
-        <item>x</item>
-        <item>x</item>
-        <item>x</item>
-        <item>x</item>
-        <item>x</item>
-        <item>x</item>
-        <item>x</item>
+        <item>"A country music star whose career began to fade, Jackson Maine (Bradley Cooper) discovered a very talented talent in the self of a young musician named Ally (Lady Gaga). Maine succeeded in making Ally a promising young star. But both are involved in a relationship that goes beyond mere mentors and students. Along with the skyrocketing careers of Ally and herself, Maine experienced a dilemma regarding this problem."</item>
+        <item>"Aquaman is a 2018 American superhero film based on the DC Comics character, Aquaman, and distributed by Warner Bros. Pictures This is the sixth installment at the DC Extended Universe (DCEU). The film was directed by James Wan, with a screenplay by David Leslie Johnson-McGoldrick and Will Beall, and is based on a story from Geoff Johns, Wan and Beall."</item>
+        <item>"Avengers: Infinity War is a 2018 American superhero film based on the superhero Marvel Comics the Avengers, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. This is the sequel to The Avengers 2012 and Avengers 2015: Age of Ultron, and the nineteenth film at the Marvel Cinematic Universe (MCU)."</item>
+        <item>"Five years before the post-apocalyptic period comes, Malorie (Sandra Bullock) is a loner. He is more busy in his gallery space describing absurd stories through painting strokes. He doesnt even come into contact with the outside world and let his sister Jessica (Sarah Paulson) take care of all of these things. That was five years ago."</item>
+        <item>"BOHEMIAN RHAPSODY is a film based on a true story to celebrate the music of the legendary Rock band QUEEN and of course their extraordinary vocalist, FREDDIE MERCURY, who is known for opposing traditions and stereotypes to become one of the most loved entertainers on the planet. Queens journey, tucked in the Bohemian Rhapsody film. From when they still held the name Smile and played in a small club, to their grand performance on LiveAid in 1985 which was legendary." </item>
+        <item>"During an escape in 1987, Bumblebee found shelter in a junkyard in a small California seaside town. Charlie, the girl who was touching the age of 18 and was looking for identity, found Bumblebee, who was scratched and damaged a lot. While trying to make it work again, Charlie saw for himself that this was not an ordinary yellow VW frog. "</item>
+        <item>"Creed is a 2015 American sports drama film directed by Ryan Coogler and written by Coogler and Aaron Covington. As a spin-off and sequel to the Rocky film series, [3] [4] [5] the film stars Michael B. Jordan as Adonis Johnson Creed, son of Apollo Creed, with Sylvester Stallone re-presenting the role of Rocky Balboa. The film also features Tessa Thompson, Phylicia Rashad, Tony Bellew and Graham McTavish. The film reunites Jordan with writer / director Fruitvale Station Coogler, and Wood Harris, who has collaborated with Jordan on the film The Wire. </item>
+        <item>"Deadpool is an American superhero film based on the Marvel Comics character of the same name. The film is the eighth installment in the X-Men film series. The film was directed by Tim Miller, with a background play by Rhett Reese and Paul Wernick, and starring Ryan Reynolds, Morena Baccarin, Ed Skrein, T. J. Miller, Gina Carano, Brianna Hildebrand, Andre Tricoteux, and Leslie Uggams." </item>
+        <item>"This film tells the story of Pulau Berk, a remote Viking village, which often faces problems where dragons often steal their cattle. Hiccup, the village chiefs son, Stoick the Great, was too weak to hunt dragons as his father used to do. Hiccup more often spends his time learning to assemble mechanical equipment under the guidance of Gobber, a blacksmith at Berk, although his inventions often fail. In a dragon attack, Hiccup believes that he shot down a Night Fury, a very rare and dangerous dragon. Hiccup later found the dragon trapped in the forest, but in the end he could not kill the dragon and instead let it go. "</item>
+        <item>"Dragon Ball tells the story of a boy named Goku who lives in the middle of a mountain alone. He then met with Bulma, a young genius girl, who tried to collect 7 magical orbs which he said could grant all wishes. These balls are called Dragon Ball. Description: Dragon Ball is 7 pieces of crystal balls scattered throughout the world, the ball is orange with a star pattern in it, if someone succeeds in collecting 7 Dragon Ball there will appear a dragon god who is able to grant any request, even including raise the dead. In his journey with Bulma in search of Dragon Ball, Goku had to deal with many obstacles, one of which was from the Red Ribbon Army. This group has the same desire as Goku and Bulma." </item>
+        <item>" Four years after the Split event, David Dunn, working with his now grown son, Joseph, uses his superhuman ability to protect people from criminals with a new pseudonym known as "The Overseer". David learned from Joseph that Kevin Wendell Crumb, who suffered from a dissociative identity disorder who gave his moniker the name "The Horde", had a group of cheerleaders held hostage in a warehouse. David goes to free them but meets one of Kevins personalities known as "The Beast," and the ensuing spill spills into the streets, which eventually leads to the capture of David and Kevin by the government. Both were sent to the mental hospital where Elijah Price, Davids mortal enemy known as "Mr. Glass", was detained. "</item>
+
     </string-array>
 </resources>
