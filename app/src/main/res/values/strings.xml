@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">Movie Catalogue UI UX</string>
+    <string name="movies">Film</string>
+    <string name="tv_show">Acara TV</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description">ini berisi deskripsi</string>
+
+
+    <string name="judul_film">judul film</string>
+    <string name="deskripsi">deskripsi dari sebuah film </string>
+
+    <string name="gambar_tv">gambar_tv</string>
+    <string name="gambar_terkait">Gambar Terkait</string>
+
+    <string name="nama">judul film</string>
+    <string name="name">judul film</string>
+    <string name="content">sinopsis  lengkap film</string>
+    <string name="simpan">Simpan</string>
+    <string name="pilih_bahasa">Pilih Bahasa</string>
+
+    <string-array name="data_movie">
+        <item>A Star</item>
+        <item>Aquaman</item>
+        <item>Averange Infinity</item>
+        <item>BirdBox</item>
+        <item>Bohemian</item>
+        <item>Bumblebee</item>
+        <item>Creed</item>
+        <item>Dead Pool</item>
+        <item>Dragon</item>
+        <item>Dragon Ball</item>
+        <item>Glass</item>
+    </string-array>
+    <string-array name="data_deskripsi">
+        <item>Seorang bintang musik country yang karirnya mulai memudar, Jackson Maine (Bradley Cooper) menemukan sebuah talenta yang sangat berbakat di dalam diri dari seorang musisi muda bernama Ally (Lady Gaga). Maine berhasil mengorbitkan Ally menjadi seorang bintang muda yang menjanjikan. Namun keduanya terlibat hubungan yang lebih jauh dari sekedar mentor dan anak didik. Seiring dengan meroketnya karir dari Ally dan dirinya, Maine mengalami dilema mengenai masalah ini.</item>
+        <item>Aquaman adalah film pahlawan super Amerika tahun 2018 yang didasarkan pada karakter DC Comics, Aquaman, dan didistribusikan oleh Warner Bros. Pictures. Ini adalah angsuran keenam di DC Extended Universe (DCEU). Film ini disutradarai oleh James Wan, dengan skenario oleh David Leslie Johnson-McGoldrick dan Will Beall, dan didasarkan pada sebuah cerita dari Geoff Johns, Wan dan Beall. </item>
+        <item>Avengers: Infinity War adalah film superhero Amerika 2018 yang didasarkan padatim superhero Marvel Comics the Avengers , diproduksi oleh Marvel Studios dan didistribusikan oleh Walt Disney Studios Motion Pictures . Ini adalah sekuel The Avengers 2012dan Avengers 2015 : Age of Ultron , dan film kesembilan belas di Marvel Cinematic Universe (MCU).</item>
+        <item>Lima tahun sebelum masa post-apocalyptic datang, Malorie (Sandra Bullock) adalah seorang penyendiri. Ia lebih sibuk di ruang galerinya menggambarkan kisah-kisah absurd melalui goresan lukisan.Ia bahkan tidak bersentuhan dengan dunia luar dan membiarkan saudarinya Jessica (Sarah Paulson) yang mengurus semua hal tersebut. Hal tersebut adalah lima tahun yang lalu.</item>
+        <item>BOHEMIAN RHAPSODY adalah film yang diangkat dari kisah nyata untuk merayakan musik band Rock legendaris QUEEN dan tentunya vokalis mereka yang luar biasa, FREDDIE MERCURY, yang dikenal menentang tradisi dan stereotip hingga menjadi salah satu penghibur yang paling dicintai di planet ini.Kepingan sejarah perjalanan Queen ini, diselipkan dalam film Bohemian Rhapsody. Mulai dari saat mereka masih menyandang nama ‘Smile’ dan bermain di klub kecil, hingga penampilan akbar mereka di LiveAid pada 1985 yang melegenda.</item>
+        <item>Dalam pelarian di tahun 1987, Bumblebee menemukan perlindungan di tempat rongsokan di sebuah kota kecil pinggir pantai California. Charlie, gadis yang tengah menyentuh usia 18 tahun dan sedang mencari jati diri, menemukan Bumblebee, yang banyak tergores dan rusak. Ketika berusaha memfungsikannya lagi, Charlie menyaksikan sendiri bahwa ini bukanlah mobil VW kodok berwarna kuning yang biasa.</item>
+        <item>Creed adalah sebuah film drama olahraga Amerika tahun 2015 yang disutradarai oleh Ryan Coogler dan ditulis oleh Coogler dan Aaron Covington. Sebagai sebuah spin-off dan sekuel dari serial film Rocky,[3][4][5] film tersebut dibintangi oleh Michael B. Jordan sebagai Adonis Johnson Creed, putra Apollo Creed, dengan Sylvester Stallone mempersembahkan kembali peran Rocky Balboa. Film tersebut juga menampilkan Tessa Thompson, Phylicia Rashād, Tony Bellew dan Graham McTavish. Film tersebut menyatukan kembali Jordan dengan penulis/sutradaraFruitvale Station Coogler, serta Wood Harris, yang telah bekerjasama Jordan pada film The Wire.</item>
+        <item>Deadpool adalah sebuah film pahlawan super Amerika yang berdasarkan pada karakter Marvel Comics dengan nama yang sama. Film tersebut merupakan instalmen kedelapan dalam serial film X-Men. Film tersebut disutradarai oleh Tim Miller, dengan sebuah permainan latar buatan Rhett Reese dan Paul Wernick, dan dibintangi oleh Ryan Reynolds, Morena Baccarin, Ed Skrein, T. J. Miller, Gina Carano, Brianna Hildebrand, Andre Tricoteux, dan Leslie Uggams.</item>
+        <item>Film ini bercerita tentang Pulau Berk, sebuah desa Viking terpencil, yang sering menghadapi masalah di mana naga sering mencuri ternak mereka. Hiccup, anak kepala desa, Stoick Yang Agung, terlalu lemah untuk memburu naga seperti yang biasa dilakukan oleh ayahnya. Hiccup lebih sering menghabiskan waktunya untuk belajar merangkai peralatan mekanik di bawah panduan Gobber, seorang pandai besi di Berk, meskipun penemuannya sering gagal. Pada sebuah serangan naga, Hiccup percaya bahwa dia telah menembak jatuh seekor Night Fury, naga yang sangat langka dan berbahaya. Hiccup kemudian menemukan naga itu terjebak di hutan, tetapi akhirnya dia tidak bisa membunuh naga itu dan malah melepaskannya.</item>
+        <item>Dragon Ball bercerita tentang seorang bocah bernama Goku yang hidup di tengah gunung sendirian. Dia lalu bertemu dengan Bulma, seorang gadis muda genius, yang berusaha mengumpulkan 7 bola ajaib yang katanya bisa mengabulkan semua keinginan. Bola-bola tersebut dinamakan Dragon Ball. Keterangan: Dragon Ball adalah 7 buah bola kristal yang tersebar di seluruh dunia, bola tersebut berwarna jingga yang terdapat pola bintang di dalamnya, apabila seseorang berhasil mengumpulkan 7 buah Dragon Ball maka akan muncul sebuah dewa naga yang mampu mengabulkan sebuah permintaan apa saja, bahkan termasuk menghidupkan orang mati. Dalam perjalanannya bersama Bulma mencari Dragon Ball, Goku harus berhadapan dengan banyak rintangan, salah satunya adalah dari Tentara Pita Merah. Kelompok ini mempunyai keinginan yang sama dengan Goku dan Bulma.</item>
+        <item>Empat tahun setelah peristiwa Split, David Dunn, bekerja dengan putranya yang sekarang sudah dewasa, Joseph, menggunakan kemampuan manusia supernya untuk melindungi orang dari penjahat dengan nama samaran baru yang dikenal sebagai "The Overseer". David mengetahui dari Joseph bahwa Kevin Wendell Crumb, yang menderita gangguan identitas disosiatif yang memberikan nama monikernya "The Horde", memiliki sekelompok pemandu sorak yang disandera di sebuah gudang. David pergi untuk membebaskan mereka tetapi bertemu dengan salah satu kepribadian Kevin yang dikenal sebagai "The Beast," dan pertarungan berikutnya tumpah ke jalan-jalan, yang akhirnya mengarah ke penangkapan David dan Kevin oleh pemerintah. Keduanya dikirim ke rumah sakit jiwa tempat Elijah Price, musuh bebuyutan David yang dikenal sebagai "Tuan Glass", ditahan.</item>
+    </string-array>
+    <array name="data_poster">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_dragonball</item>
+        <item>@drawable/poster_glass</item>
+    </array>
+
+    <string-array name="dataKonten">
+        <item>y</item>
+        <item>y</item>
+        <item>y</item>
+        <item>y</item>
+        <item>y</item>
+        <item>y</item>
+        <item>y</item>
+        <item>y</item>
+        <item>y</item>
+        <item>y</item>
+        <item>y</item>
+    </string-array>
+
+    <string-array name="judul_tvshow">
+        <item>Arrow</item>
+        <item>Doom Patrol</item>
+        <item>Dragon Ball</item>
+        <item>Fairytail</item>
+        <item>Family Guy</item>
+        <item>Flash</item>
+        <item>GOd</item>
+        <item>GOtham</item>
+        <item>Grey Anatomy</item>
+        <item>Hanna</item>
+        <item>Iron Fist</item>
+    </string-array>
+
+    <string-array name="deskripsi_tvshow">
+        <item>Ini Talkshow adalah acara talkshow/gelar wicara yang dikemas dengan suasana santai. Membahas persoalan hangat yang ada di masyarakat dengan cara sederhana. Di acara ini juga akan memperlihatkan suasana rumah dan karakter-karakter yang ada di rumah tersebut.</item>
+        <item>Hitam Putih adalah sebuah acara gelar wicara yang ditayangkan Trans7. Acara ini dibawakan oleh mentalist Indonesia, Deddy Corbuzier. Setiap acaranya menyampaikan tema-tema inspiratif yang dibawakan secara santai.</item>
+        <item>Si Bolang adalah sebuah acara dokumenter anak-anak yang ditayangkan di stasiun televisi Trans7. Acara ini tayang perdana pada 26 Maret 2006 saat masih bernama TV7. Program ini berisi petualangan anak-anak di beragam penjuru Nusantara tentang pengenalan alam dan budaya setempat sesuai tempat tinggal anak-anak. </item>
+        <item>My Trip My Adventure adalah sebuah acara televisi bergenre dokumenter wisata yang ditayangkan stasiun televisi Trans TV sejak bulan September 2013. Dalam acara ini, My Trip My Adventure menggambarkan petualangan dan eksplorasi keindahan alam Indonesia. </item>
+        <item>Jejak Petualang merupakan sebuah program televisi berupa tayangan dokumenter yang dimiliki oleh Trans7. Program Jejak Petualang berisi liputan yang berupa fenomena maupun hal menarik meliputi alam, kebudayaan, kearifan lokal serta exlporasi yang ada di seluruh Indonesia sesuai fakta.</item>
+        <item>Mata Najwa adalah program gelar wicara yang dipandu oleh jurnalis senior, Najwa Shihab. Musim pertama disiarkan perdana di MetroTV sejak 25 November 2009, Mata Najwa konsisten menghadirkan topik-topik menarik dengan narasumber kelas satu. Talkshow ini ditayangkan setiap hari Rabu pukul 20.00 hingga 21.30 WIB.</item>
+        <item>Indonesia Lawyers Club adalah acara talkshow yang disiarkan di tvOne. Acara ini menampilkan dialog mengenai masalah hukum dan kriminalitas selama 210 menit dan dipandu oleh Karni Ilyas. Acara ini disiarkan setiap hari Selasa pukul 20:00 WIB dan Minggu pukul 19:30 WIB. </item>
+        <item>Laptop Si Unyil adalah sebuah program anak-anak yang tayang pertama kali di Trans7 mulai tanggal 19 Maret 2007 setiap hari Senin sampai Jumat pukul 13.00 WIB, dan kemudian dilanjutkan dengan Buku Harian Si Unyil Yang ditayangkan setiap hari Sabtu dan Minggu.</item>
+        <item>Ternyata banyak hal-hal sepele disekitar kita yang tidak kita ketahui secara tepat. Padahal, hal-hal tersebut sangat akrab dengan kehidupan sehari-hari. Ikuti tayangannya.</item>
+        <item>On The Spot adalah sebuah acara majalah berita yang ditayangkan Trans7. Awalnya acara ini berformat pemutaran musik yang memainkan berbagai video klip musisi Indonesia disertai berbagai informasi ringan.</item>
+        <item>Ini Baru Empat Mata adalah sebuah acara talkshow Indonesia yang dibawakan oleh Tukul Arwana di Trans7. Acara ini mulai dipandu Tukul sejak September 2005. Setiap acaranya menyampaikan tema tertentu yang diselingi dengan lawakan.</item>
+    </string-array>
+    <array name="poster_tvshow">
+    <item>@drawable/poster_arrow</item>
+        <item>@drawable/poster_doom_patrol</item>
+        <item>@drawable/poster_dragon_ball</item>
+        <item>@drawable/poster_fairytail</item>
+        <item>@drawable/poster_family_guy</item>
+        <item>@drawable/poster_flash</item>
+        <item>@drawable/poster_god</item>
+        <item>@drawable/poster_gotham</item>
+        <item>@drawable/poster_grey_anatomy</item>
+        <item>@drawable/poster_hanna</item>
+        <item>@drawable/poster_iron_fist</item>
+    </array>
+
+
+
+    <string-array name="konten_tvshow">
+        <item>Arrow adalah serial televisi Amerika yang dikembangkan oleh Greg Berlanti, Andrew Kreisberg, dan Geoff Johns, yang mengudara di The CW. Serial ini didasari tokoh DC Comics Green Arrow (Oliver Queen), seorang pahlawan super berkostum, penumpas-kejahatan yang bersenjatakan busur dan panah. Serial ini menceritakan Oliver Queen, playboy miliuner yang pascaterdampar lima tahun di pulau terpencil, kembali pulang bersenjatakan busur dan panah untuk menumpas kejahatan di Kota Star sebagai vigilante rahasia bernama Green Arrow.</item>
+        <item>x</item>
+        <item>x</item>
+        <item>x</item>
+        <item>x</item>
+        <item>x</item>
+        <item>x</item>
+        <item>x</item>
+        <item>x</item>
+        <item>x</item>
+        <item>x</item>
+          </string-array>
+</resources>
