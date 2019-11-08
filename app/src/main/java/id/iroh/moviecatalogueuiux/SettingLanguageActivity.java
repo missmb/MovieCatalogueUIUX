@@ -57,6 +57,7 @@ public class SettingLanguageActivity  extends AppCompatActivity {
         getBaseContext().getResources().updateConfiguration(config, getBaseContext().getResources().getDisplayMetrics());
         SharedPreferences.Editor editor = getSharedPreferences("Setting", MODE_PRIVATE).edit();
         editor.putString("My_Lang", lang);
+        editor.apply();
     }
 
     private void loadLocale(){
