@@ -44,7 +44,7 @@ public class DetailActivity extends AppCompatActivity {
         }
     }
 
-    public void tambahGambar(String data, ImageView letak){
+    public void tambahGambar(int data, ImageView letak){
         Glide.with(DetailActivity.this)
                 .load(data)
                 .into(letak);

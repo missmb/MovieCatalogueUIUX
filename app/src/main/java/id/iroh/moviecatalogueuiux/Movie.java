@@ -3,13 +3,16 @@ package id.iroh.moviecatalogueuiux;
 import android.os.Parcel;
 import android.os.Parcelable;
 
+import java.util.ArrayList;
+
 public class Movie implements Parcelable {
-    private String judul, deskripsi, konten, Thisposter;
+    private String judul, deskripsi, konten ;
+    private int Thisposter;
 
     public Movie() {
     }
 
-    public Movie(String judul, String deskripsi, String poster) {
+    public Movie(String judul, String deskripsi, int poster) {
         this.judul = judul;
         this.deskripsi = deskripsi;
         Thisposter = poster;
@@ -39,11 +42,11 @@ public class Movie implements Parcelable {
         this.konten = konten;
     }
 
-    public String getThisposter() {
+    public int getThisposter() {
         return Thisposter;
     }
 
-    public void setThisposter(String thisposter) {
+    public void setThisposter(int thisposter) {
         Thisposter = thisposter;
     }
 
@@ -57,7 +60,7 @@ public class Movie implements Parcelable {
         dest.writeString(this.judul);
         dest.writeString(this.deskripsi);
         dest.writeString(this.konten);
-        dest.writeString(this.Thisposter);
+        dest.writeInt(this.Thisposter);
 
     }
 
@@ -65,7 +68,7 @@ public class Movie implements Parcelable {
         this.judul = in.readString();
         this.deskripsi = in.readString();
         this.konten = in.readString();
-        this.Thisposter = in.readString();
+        this.Thisposter = in.readInt();
     }
 
     public static final Parcelable.Creator<Movie> CREATOR = new Parcelable.Creator<Movie>() {

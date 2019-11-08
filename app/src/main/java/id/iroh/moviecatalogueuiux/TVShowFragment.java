@@ -1,5 +1,6 @@
 package id.iroh.moviecatalogueuiux;
 
+import android.content.res.TypedArray;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -13,7 +14,8 @@ import java.util.ArrayList;
 
 public class TVShowFragment extends Fragment {
     View v;
-    private String[] datajudul, datadeskripsi, dataKonten, dataposter;
+    private String[] datajudul, datadeskripsi, dataKonten;
+    private TypedArray dataposter;
     private ArrayList<TVShow> tvShows;
     private RecyclerView iniRecyclerView;
 
@@ -38,7 +40,7 @@ public class TVShowFragment extends Fragment {
     public void siap(){
         datajudul = getResources().getStringArray(R.array.judul_tvshow);
         datadeskripsi = getResources().getStringArray(R.array.deskripsi_tvshow);
-        dataposter = getResources().getStringArray(R.array.poster_tvshow);
+        dataposter = getResources().obtainTypedArray(R.array.poster_tvshow);
         dataKonten = getResources().getStringArray(R.array.konten_tvshow);
     }
 
@@ -48,7 +50,7 @@ public class TVShowFragment extends Fragment {
             TVShow tv = new TVShow();
             tv.setJudul(datajudul[j]);
             tv.setDeskripsi(datadeskripsi[j]);
-            tv.setPoster(dataposter[j]);
+            tv.setPoster(dataposter.getResourceId(j, -1));
             tv.setIsitvshow(dataKonten[j]);
             tvShows.add(tv);
         }

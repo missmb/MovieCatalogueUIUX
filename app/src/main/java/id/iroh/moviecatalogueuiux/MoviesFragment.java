@@ -1,5 +1,6 @@
 package id.iroh.moviecatalogueuiux;
 
+import android.content.res.TypedArray;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -16,7 +17,8 @@ import java.util.ArrayList;
 public class MoviesFragment extends Fragment implements  View.OnClickListener{
     View v;
     private RecyclerView myrecyclerview;
-    private String[] dataJudul, dataDeskripsi,dataKonten, poster;
+    private String[] dataJudul, dataDeskripsi,dataKonten;
+    private TypedArray poster;
     private ArrayList<Movie> movies;
     public MoviesFragment() {
     }
@@ -42,9 +44,8 @@ public class MoviesFragment extends Fragment implements  View.OnClickListener{
     private void prepare(){
         dataJudul = getResources().getStringArray(R.array.data_movie);
         dataDeskripsi = getResources().getStringArray(R.array.data_deskripsi);
-        poster = getResources().getStringArray(R.array.data_poster);
+        poster = getResources().obtainTypedArray(R.array.data_poster);
         dataKonten = getResources().getStringArray(R.array.dataKonten);
-
     }
     private void addItem(){
         movies = new ArrayList<>();
@@ -52,8 +53,9 @@ public class MoviesFragment extends Fragment implements  View.OnClickListener{
             Movie listMovie = new Movie();
             listMovie.setJudul(dataJudul[i]);
             listMovie.setDeskripsi(dataDeskripsi[i]);
-            listMovie.setThisposter(poster[i]);
+            listMovie.setThisposter(poster.getResourceId(i, -1));
             listMovie.setKonten(dataKonten[i]);
+
             movies.add(listMovie);
         }
     }
