@@ -25,7 +25,7 @@ public class DetailActivity extends AppCompatActivity {
         TVShow acara = getIntent().getParcelableExtra(EXTRA_TV);
 
         tvJudul = findViewById(R.id.tv_judul);
-        judul = findViewById(R.id.judul);
+        judul = findViewById(R.id.tv_judul);
         tvKonten = findViewById(R.id.tv_content);
         imgPoster = findViewById(R.id.img_main);
 

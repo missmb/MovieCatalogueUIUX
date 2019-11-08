@@ -27,20 +27,14 @@
             android:id="@+id/tv_judul"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="20sp"
-            android:textStyle="bold"
-            tools:text="@string/name" />
-
-        <TextView
-            android:id="@+id/judul"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
             android:textSize="20sp"
             android:textStyle="bold"
             tools:text="@string/name" />
 
         <TextView
             android:id="@+id/tv_content"
+            android:layout_margin="5dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
         android:layout_below="@id/tv_judul"
